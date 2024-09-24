@@ -5,20 +5,3 @@ updates:
     schedule:
       interval: daily
       timezone: Asia/Tokyo
-    labels:
-      - "deps"
-      - "deps:pub"
-    open-pull-requests-limit: 20
-    versioning-strategy: increase
-    commit-message:
-      prefix: "deps(pub)"
-    groups:
-      slang:
-        patterns:
-          - slang*
-        update-types:
-          - major
-          - minor
-      patch-updates:
-        update-types:
-          - patch
