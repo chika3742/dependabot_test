@@ -79,7 +79,7 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   riverpod_generator: ^2.4.3
   build_runner: ^2.4.12
-#  custom_lint: ^0.6.5
+  custom_lint: ^0.6.5
 #  riverpod_lint: ^2.3.13
 #  freezed: ^2.5.7
 #  go_router_builder: ^2.7.1
