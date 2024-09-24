@@ -87,7 +87,7 @@ dev_dependencies:
 #  json_serializable: ^6.8.0
 #  mockito: ^5.4.4
 #  drift_dev: ^2.20.1
-  pigeon: ^22.3.0
+  pigeon: ^22.4.0
 
 # The following section is specific to Flutter packages.
 flutter:
