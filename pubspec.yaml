@@ -43,7 +43,6 @@ dev_dependencies:
 
   flutter_lints: ^4.0.0
   riverpod_generator: ^2.4.3
-  pigeon: ^22.3.0
 
 # The following section is specific to Flutter packages.
 flutter:
