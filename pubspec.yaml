@@ -31,13 +31,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  integration_test:
-    sdk: flutter
+  lints: 5.1.0
+  animations: 2.0.10
+  pub_semver: 2.1.4
 
-  custom_lint: 0.6.8
+dev_dependencies: {}
 
 # The following section is specific to Flutter packages.
 flutter:
