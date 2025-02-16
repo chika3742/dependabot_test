@@ -5,3 +5,7 @@ updates:
     schedule:
       interval: daily
       timezone: Asia/Tokyo
+    groups:
+      patch-updates:
+        update-types:
+          - patch
