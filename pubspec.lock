@@ -5,10 +5,10 @@ packages:
     dependency: "direct main"
     description:
       name: animations
-      sha256: "708e4b68c23228c264b038fe7003a2f5d01ce85fc64d8cae090e86b27fcea6c5"
+      sha256: d3d6dcfb218225bbe68e87ccf6378bbb2e32a94900722c5f81611dad089911cb
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.10"
+    version: "2.0.11"
   characters:
     dependency: transitive
     description:
@@ -58,10 +58,10 @@ packages:
     dependency: "direct main"
     description:
       name: pub_semver
-      sha256: "40d3ab1bbd474c4c2328c91e3a7df8c6dd629b79ece4c4bd04bee496a224fb0c"
+      sha256: "7b3cfbf654f3edd0c6298ecd5be782ce997ddf0e00531b9464b55245185bbbbd"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.4"
+    version: "2.1.5"
   sky_engine:
     dependency: transitive
     description: flutter
