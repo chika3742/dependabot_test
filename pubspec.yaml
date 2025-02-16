@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  lints: 5.1.0
+  lints: 4.0.0
   animations: 2.0.10
   pub_semver: 2.1.4
 
